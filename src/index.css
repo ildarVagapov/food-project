@@ -31,3 +31,16 @@ nav {
 .card-content {
 	flex: 1 1 auto;
 }
+
+.meals-recipe {
+	display: flex;
+	gap: 50px;
+}
+
+.meals-recipe img {
+	width: 400px;
+	height: 400px;
+}
+.meals-des {
+	width: 500px;
+}

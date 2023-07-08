@@ -2,8 +2,6 @@ import { Meals } from "./Meals"
 
 
 const MealsList = (props) => {
-	debugger
-
 	return (
 		<div className="list">
 			{
